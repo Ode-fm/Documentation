@@ -5,7 +5,7 @@ Welcome to the official documentation repository for Ode. This repository houses
 ## Available Documentation
 
 ### 1. [API Documentation](https://github.com/Ode-fm/Documentation/blob/main/API%20Documentation.md)
-The [API Documentation](https://github.com/Ode-fm/Documentation/blob/main/API%20Documentation.md) provides detailed information on how to interact with the Ode API. This includes endpoints for retrieving event, category, location, and tag data, along with authentication requirements and example requests.
+The [API Documentation](https://github.com/Ode-fm/Documentation/blob/main/API%20Documentation.md) provides detailed information on how to interact with the Ode API. This includes endpoints for retrieving events, categories, locations, tags, and organizers data, along with authentication requirements and example requests.
 
 Key Sections:
 - Base URL and Authentication
@@ -13,6 +13,7 @@ Key Sections:
 - Category Endpoints
 - Location Endpoints
 - Tag Endpoints
+- Organizer Endpoints
 
 ---
 
